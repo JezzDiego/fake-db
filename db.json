@@ -4,56 +4,56 @@
       "id": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
       "userId": "u1001",
       "title": "Hemograma completo",
-      "category": "Hematologia",
+      "category": "BLOOD",
       "date": 1688208000000
     },
     {
       "id": "b2c6d7e8-9f01-4a2b-bcde-2a3b4c5d6e02",
       "userId": "u1002",
       "title": "Glicemia em jejum",
-      "category": "Bioquímica",
+      "category": "BLOOD",
       "date": 1704067200000
     },
     {
       "id": "c3d7e9f0-1a23-4b56-abcd-3f4e5d6c7b03",
       "userId": "u1001",
       "title": "PCR para SARS-CoV-2",
-      "category": "Microbiologia",
+      "category": "OTHER",
       "date": 1672444800000
     },
     {
       "id": "d4e8f0a1-2b34-4c67-bcde-4a5b6c7d8e04",
       "userId": "u1003",
       "title": "Perfil lipídico",
-      "category": "Bioquímica",
+      "category": "BLOOD",
       "date": 1696118400000
     },
     {
       "id": "e5f901b2-3c45-4d78-cdef-5b6c7d8e9f05",
       "userId": "u1004",
       "title": "Ultrassom abdominal",
-      "category": "Imagem",
+      "category": "IMAGE",
       "date": 1711920000000
     },
     {
       "id": "f6a012c3-4d56-4e89-def0-6c7d8e9f0a06",
       "userId": "u1002",
-      "title": "TSH",
-      "category": "Endocrinologia",
+      "title": "Eletrocardiograma",
+      "category": "CARDIO",
       "date": 1669852800000
     },
     {
       "id": "07b123d4-5e67-4f90-0abc-7d8e9f0a1b07",
       "userId": "u1005",
       "title": "Urina tipo 1",
-      "category": "Urinálise",
+      "category": "URINE",
       "date": 1693526400000
     },
     {
       "id": "18c234e5-6f78-4a01-1bcd-8e9f0a1b2c08",
       "userId": "u1001",
       "title": "Teste de alergia (IgE total)",
-      "category": "Imunologia",
+      "category": "OTHER",
       "date": 1722508800000
     }
   ]
