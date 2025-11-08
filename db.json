@@ -1,4 +1,51 @@
 {
+  "users": [
+    {
+      "id": "u1001",
+      "name": "Felipe Andrade",
+      "email": "felipe.andrade@example.com",
+      "password": "123456",
+      "birthDate": "1999-03-12",
+      "gender": "M",
+      "plan": "PREMIUM"
+    },
+    {
+      "id": "u1002",
+      "name": "Laura Nascimento",
+      "email": "laura.nascimento@example.com",
+      "password": "abcdef",
+      "birthDate": "1987-07-25",
+      "gender": "F",
+      "plan": "FREE"
+    },
+    {
+      "id": "u1003",
+      "name": "Rafael Costa",
+      "email": "rafael.costa@example.com",
+      "password": "senha123",
+      "birthDate": "1995-11-03",
+      "gender": "M",
+      "plan": "PREMIUM"
+    },
+    {
+      "id": "u1004",
+      "name": "Beatriz Lima",
+      "email": "beatriz.lima@example.com",
+      "password": "qwerty",
+      "birthDate": "2000-02-18",
+      "gender": "F",
+      "plan": "FREE"
+    },
+    {
+      "id": "u1005",
+      "name": "Lucas Mendes",
+      "email": "lucas.mendes@example.com",
+      "password": "teste123",
+      "birthDate": "1992-09-09",
+      "gender": "M",
+      "plan": "FREE"
+    }
+  ],
   "exams": [
     {
       "id": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
