@@ -7,6 +7,7 @@
       "password": "123456",
       "birthDate": "12/03/1999",
       "gender": "Masculino",
+      "healthInsurance": "Unimed",
       "plan": "PREMIUM"
     },
     {
@@ -16,6 +17,7 @@
       "password": "abcdef",
       "birthDate": "25/07/1987",
       "gender": "Feminino",
+      "healthInsurance": "Unimed",
       "plan": "FREE"
     },
     {
@@ -25,6 +27,7 @@
       "password": "senha123",
       "birthDate": "01/01/2001",
       "gender": "Masculino",
+      "healthInsurance": "Amil",
       "plan": "PREMIUM"
     },
     {
@@ -34,6 +37,7 @@
       "password": "qwerty",
       "birthDate": "18/02/2000",
       "gender": "Feminino",
+      "healthInsurance": "Unimed",
       "plan": "FREE"
     },
     {
@@ -43,6 +47,7 @@
       "password": "teste123",
       "birthDate": "09/09/1999",
       "gender": "Masculino",
+      "healthInsurance": "Amil",
       "plan": "FREE"
     }
   ],
