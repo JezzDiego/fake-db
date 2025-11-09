@@ -7,8 +7,6 @@
       "password": "123456",
       "birthDate": "12/03/1999",
       "gender": "Masculino",
-      "agreement": "teste",
-      "profilePictureUrl": "https://thumbs.dreamstime.com/b/black-business-man-thumb-up-happy-giving-modern-office-67668710.jpg"
       "plan": "PREMIUM"
     },
     {
@@ -18,8 +16,6 @@
       "password": "abcdef",
       "birthDate": "25/07/1987",
       "gender": "Feminino",
-      "agreement": "teste",
-      "profilePictureUrl": "https://media.istockphoto.com/id/1326417862/pt/foto/young-woman-laughing-while-relaxing-at-home.jpg?s=612x612&w=0&k=20&c=F0vQkVvqGT3jOFrJ4bs_fs0d4xJPjP9jLSvZRm_BBD4="
       "plan": "FREE"
     },
     {
@@ -29,8 +25,6 @@
       "password": "senha123",
       "birthDate": "01/01/2001",
       "gender": "Masculino",
-      "agreement": "teste",
-      "profilePictureUrl": "https://media.istockphoto.com/id/1486146700/photo/mature-men-outdoor-physical-activity.jpg?s=612x612&w=0&k=20&c=DHndau78yF1WK4zLaoneS2qEs905m6_8pmkKr30l3-M="
       "plan": "PREMIUM"
     },
     {
@@ -40,8 +34,6 @@
       "password": "qwerty",
       "birthDate": "18/02/2000",
       "gender": "Feminino",
-      "agreement": "teste",
-      "profilePictureUrl": "https://media.istockphoto.com/id/1289220545/pt/foto/beautiful-woman-smiling-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=J8IOft88XNXaMMjGBZUbbUVPPiDkxXO2uX5lxuWFRbM="
       "plan": "FREE"
     },
     {
@@ -51,8 +43,6 @@
       "password": "teste123",
       "birthDate": "09/09/1999",
       "gender": "Masculino",
-      "agreement": "teste",
-      "profilePictureUrl": "https://thumbs.dreamstime.com/b/happy-man-thumbs-up-sign-full-length-portrait-white-background-showing-31416426.jpg"
       "plan": "FREE"
     }
   ],
