@@ -8,6 +8,7 @@
       "birthDate": "12/03/1999",
       "gender": "Masculino",
       "healthInsurance": "Amil",
+      "profileImageUrl": "", 
       "plan": "PREMIUM"
     },
     {
@@ -18,6 +19,7 @@
       "birthDate": "25/07/1987",
       "gender": "Feminino",
       "healthInsurance": "Unimed",
+      "profileImageUrl": "", 
       "plan": "FREE"
     },
     {
@@ -28,6 +30,7 @@
       "birthDate": "01/01/2001",
       "gender": "Masculino",
       "healthInsurance": "Amil",
+      "profileImageUrl": "", 
       "plan": "PREMIUM"
     },
     {
@@ -38,6 +41,7 @@
       "birthDate": "18/02/2000",
       "gender": "Feminino",
       "healthInsurance": "Unimed",
+      "profileImageUrl": "", 
       "plan": "FREE"
     },
     {
@@ -48,6 +52,7 @@
       "birthDate": "09/09/1999",
       "gender": "Masculino",
       "healthInsurance": "Amil",
+      "profileImageUrl": "", 
       "plan": "FREE"
     }
   ],
