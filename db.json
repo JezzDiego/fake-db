@@ -6,7 +6,7 @@
       "email": "felipe.andrade@example.com",
       "password": "123456",
       "birthDate": "12/03/1999",
-      "gender": "M",
+      "gender": "Masculino",
       "plan": "PREMIUM"
     },
     {
@@ -15,7 +15,7 @@
       "email": "laura.nascimento@example.com",
       "password": "abcdef",
       "birthDate": "25/07/1987",
-      "gender": "F",
+      "gender": "Feminino",
       "plan": "FREE"
     },
     {
@@ -24,7 +24,7 @@
       "email": "rafael.costa@example.com",
       "password": "senha123",
       "birthDate": "01/01/2001",
-      "gender": "M",
+      "gender": "Masculino",
       "plan": "PREMIUM"
     },
     {
@@ -33,7 +33,7 @@
       "email": "beatriz.lima@example.com",
       "password": "qwerty",
       "birthDate": "18/02/2000",
-      "gender": "F",
+      "gender": "Feminino",
       "plan": "FREE"
     },
     {
@@ -42,7 +42,7 @@
       "email": "lucas.mendes@example.com",
       "password": "teste123",
       "birthDate": "09/09/1999",
-      "gender": "M",
+      "gender": "Masculino",
       "plan": "FREE"
     }
   ],
