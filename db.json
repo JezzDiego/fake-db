@@ -307,7 +307,7 @@
     ]
   }
 ],
-"Medication": [
+"medication": [
     {
       "id": "1",
       "name": "Paracetamol",
@@ -335,48 +335,6 @@
       "dosage": "500 mg",
       "interval_hours": 6,
       "description": "Analgésico e antipirético indicado para alívio de dores e redução de febre."
-    },
-    {
-      "id": "5",
-      "name": "Losartana Potássica",
-      "dosage": "50 mg",
-      "interval_hours": 24,
-      "description": "Antagonista do receptor de angiotensina II usado para tratar hipertensão arterial."
-    },
-    {
-      "id": "6",
-      "name": "Omeprazol",
-      "dosage": "20 mg",
-      "interval_hours": 24,
-      "description": "Inibidor de bomba de prótons usado para tratar refluxo gastroesofágico e úlceras gástricas."
-    },
-    {
-      "id": "7",
-      "name": "Metformina",
-      "dosage": "850 mg",
-      "interval_hours": 12,
-      "description": "Antidiabético oral que ajuda a controlar os níveis de glicose no sangue em pacientes com diabetes tipo 2."
-    },
-    {
-      "id": "8",
-      "name": "Loratadina",
-      "dosage": "10 mg",
-      "interval_hours": 24,
-      "description": "Antialérgico usado para aliviar sintomas de rinite alérgica e urticária."
-    },
-    {
-      "id": "9",
-      "name": "Azitromicina",
-      "dosage": "500 mg",
-      "interval_hours": 24,
-      "description": "Antibiótico de amplo espectro indicado para infecções respiratórias e de pele."
-    },
-    {
-      "id": "10",
-      "name": "Prednisona",
-      "dosage": "20 mg",
-      "interval_hours": 24,
-      "description": "Corticosteroide utilizado no tratamento de inflamações e reações alérgicas."
     }
   ]
 }
