@@ -101,61 +101,256 @@
     }
   ],
   "exams": [
-    {
-      "id": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
-      "userId": "u1001",
-      "title": "Hemograma completo",
-      "category": "BLOOD",
-      "date": 1688208000000
+  {
+    "id": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
+    "userId": "u1001",
+    "title": "Hemograma completo",
+    "category": "BLOOD",
+    "date": 1688208000000,
+    "laboratory": {
+      "id": "l001",
+      "name": "Laboratório Central de Diagnósticos",
+      "address": "Av. Paulista, 1500 - Bela Vista, São Paulo, SP",
+      "phone": "+55 11 3123-4500",
+      "email": "contato@lcd.com.br"
     },
-    {
-      "id": "b2c6d7e8-9f01-4a2b-bcde-2a3b4c5d6e02",
-      "userId": "u1002",
-      "title": "Glicemia em jejum",
-      "category": "BLOOD",
-      "date": 1704067200000
+    "results": [
+      { "name": "Hemoglobina", "value": "14.2", "unit": "g/dL", "referenceRange": "13.0 - 17.0" },
+      { "name": "Hematócrito", "value": "42", "unit": "%", "referenceRange": "40 - 52" },
+      { "name": "Leucócitos", "value": "7.1", "unit": "mil/mm³", "referenceRange": "4.0 - 10.0" },
+      { "name": "Plaquetas", "value": "240", "unit": "mil/mm³", "referenceRange": "150 - 450" }
+    ],
+    "attachments": [
+      {
+        "id": "att001",
+        "examId": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
+        "fileName": "hemograma_completo.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/hemograma_felipe.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1688294400000
+      }
+    ],
+    "notes": "Exame de rotina anual.",
+    "createdAt": 1688208000000,
+    "updatedAt": null
+  },
+  {
+    "id": "b2c6d7e8-9f01-4a2b-bcde-2a3b4c5d6e02",
+    "userId": "u1002",
+    "title": "Glicemia em jejum",
+    "category": "BLOOD",
+    "date": 1704067200000,
+    "laboratory": {
+      "id": "l002",
+      "name": "Laboratório São Lucas",
+      "address": "Rua São João, 320 - Centro, Rio de Janeiro, RJ",
+      "phone": "+55 21 3322-7788",
+      "email": "atendimento@saolucaslab.com.br"
     },
-    {
-      "id": "c3d7e9f0-1a23-4b56-abcd-3f4e5d6c7b03",
-      "userId": "u1001",
-      "title": "PCR para SARS-CoV-2",
-      "category": "OTHER",
-      "date": 1672444800000
+    "results": [
+      { "name": "Glicose", "value": "88", "unit": "mg/dL", "referenceRange": "70 - 99" }
+    ],
+    "attachments": [
+      {
+        "id": "att002",
+        "examId": "b2c6d7e8-9f01-4a2b-bcde-2a3b4c5d6e02",
+        "fileName": "glicemia_jejum_laura.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/glicemia_laura.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1704070800000
+      }
+    ],
+    "notes": "Resultado dentro da normalidade.",
+    "createdAt": 1704067200000,
+    "updatedAt": null
+  },
+  {
+    "id": "c3d7e9f0-1a23-4b56-abcd-3f4e5d6c7b03",
+    "userId": "u1001",
+    "title": "PCR para SARS-CoV-2",
+    "category": "OTHER",
+    "date": 1672444800000,
+    "laboratory": {
+      "id": "l003",
+      "name": "Laboratório Viva Saúde",
+      "address": "Av. Brasil, 2100 - Funcionários, Belo Horizonte, MG",
+      "phone": "+55 31 3456-9900",
+      "email": "contato@vivasaude.com.br"
     },
-    {
-      "id": "d4e8f0a1-2b34-4c67-bcde-4a5b6c7d8e04",
-      "userId": "u1003",
-      "title": "Perfil lipídico",
-      "category": "BLOOD",
-      "date": 1696118400000
+    "results": [
+      { "name": "SARS-CoV-2", "value": "Não detectado", "unit": null, "referenceRange": "Não detectado" }
+    ],
+    "attachments": [
+      {
+        "id": "att003",
+        "examId": "c3d7e9f0-1a23-4b56-abcd-3f4e5d6c7b03",
+        "fileName": "pcr_sarscov2_resultado.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/pcr_felipe.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1672450000000
+      }
+    ],
+    "notes": "Exame realizado por suspeita de COVID-19. Resultado negativo.",
+    "createdAt": 1672444800000,
+    "updatedAt": null
+  },
+  {
+    "id": "d4e8f0a1-2b34-4c67-bcde-4a5b6c7d8e04",
+    "userId": "u1003",
+    "title": "Perfil lipídico",
+    "category": "BLOOD",
+    "date": 1696118400000,
+    "laboratory": {
+      "id": "l001",
+      "name": "Laboratório Central de Diagnósticos",
+      "address": "Av. Paulista, 1500 - Bela Vista, São Paulo, SP",
+      "phone": "+55 11 3123-4500",
+      "email": "contato@lcd.com.br"
     },
-    {
-      "id": "e5f901b2-3c45-4d78-cdef-5b6c7d8e9f05",
-      "userId": "u1004",
-      "title": "Ultrassom abdominal",
-      "category": "IMAGE",
-      "date": 1711920000000
+    "results": [
+      { "name": "Colesterol total", "value": "192", "unit": "mg/dL", "referenceRange": "< 200" },
+      { "name": "HDL", "value": "52", "unit": "mg/dL", "referenceRange": "> 40" },
+      { "name": "LDL", "value": "120", "unit": "mg/dL", "referenceRange": "< 130" },
+      { "name": "Triglicerídeos", "value": "135", "unit": "mg/dL", "referenceRange": "< 150" }
+    ],
+    "attachments": [
+      {
+        "id": "att004",
+        "examId": "d4e8f0a1-2b34-4c67-bcde-4a5b6c7d8e04",
+        "fileName": "perfil_lipidico_rafael.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/lipidico_rafael.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1696204800000
+      }
+    ],
+    "notes": "Leve aumento de LDL, recomendada reavaliação em 6 meses.",
+    "createdAt": 1696118400000,
+    "updatedAt": null
+  },
+  {
+    "id": "e5f901b2-3c45-4d78-cdef-5b6c7d8e9f05",
+    "userId": "u1004",
+    "title": "Ultrassom abdominal",
+    "category": "IMAGE",
+    "date": 1711920000000,
+    "laboratory": {
+      "id": "l004",
+      "name": "Laboratório Santa Cruz",
+      "address": "Praça da Sé, 45 - Centro, Salvador, BA",
+      "phone": "+55 71 9987-1122",
+      "email": "infosantacruz@lab.com.br"
     },
-    {
-      "id": "f6a012c3-4d56-4e89-def0-6c7d8e9f0a06",
-      "userId": "u1002",
-      "title": "Eletrocardiograma",
-      "category": "CARDIO",
-      "date": 1669852800000
+    "results": [
+      { "name": "Observação", "value": "Fígado e rins com dimensões normais, sem alterações." }
+    ],
+    "attachments": [
+      {
+        "id": "att005",
+        "examId": "e5f901b2-3c45-4d78-cdef-5b6c7d8e9f05",
+        "fileName": "ultrassom_abdominal_beatriz.jpg",
+        "fileUrl": "https://storage.auraapp.com/exams/ultrassom_beatriz.jpg",
+        "fileType": "jpg",
+        "uploadedAt": 1711923600000
+      }
+    ],
+    "notes": "Exame realizado por dor abdominal leve, sem achados clínicos relevantes.",
+    "createdAt": 1711920000000,
+    "updatedAt": null
+  },
+  {
+    "id": "f6a012c3-4d56-4e89-def0-6c7d8e9f0a06",
+    "userId": "u1002",
+    "title": "Eletrocardiograma",
+    "category": "CARDIO",
+    "date": 1669852800000,
+    "laboratory": {
+      "id": "l002",
+      "name": "Laboratório São Lucas",
+      "address": "Rua São João, 320 - Centro, Rio de Janeiro, RJ",
+      "phone": "+55 21 3322-7788",
+      "email": "atendimento@saolucaslab.com.br"
     },
-    {
-      "id": "07b123d4-5e67-4f90-0abc-7d8e9f0a1b07",
-      "userId": "u1005",
-      "title": "Urina tipo 1",
-      "category": "URINE",
-      "date": 1693526400000
+    "results": [
+      { "name": "Ritmo cardíaco", "value": "Sinusal normal" },
+      { "name": "Frequência", "value": "72", "unit": "bpm", "referenceRange": "60 - 100" }
+    ],
+    "attachments": [
+      {
+        "id": "att006",
+        "examId": "f6a012c3-4d56-4e89-def0-6c7d8e9f0a06",
+        "fileName": "eletrocardiograma_laura.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/ecg_laura.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1669856400000
+      }
+    ],
+    "notes": "Sem alterações eletrocardiográficas significativas.",
+    "createdAt": 1669852800000,
+    "updatedAt": null
+  },
+  {
+    "id": "07b123d4-5e67-4f90-0abc-7d8e9f0a1b07",
+    "userId": "u1005",
+    "title": "Urina tipo 1",
+    "category": "URINE",
+    "date": 1693526400000,
+    "laboratory": {
+      "id": "l006",
+      "name": "Laboratório Norte Clínica",
+      "address": "Rua das Flores, 780 - Bairro Novo, Porto Alegre, RS",
+      "phone": "+55 51 4000-5566",
+      "email": "contato@norteclinica.com.br"
     },
-    {
-      "id": "18c234e5-6f78-4a01-1bcd-8e9f0a1b2c08",
-      "userId": "u1001",
-      "title": "Teste de alergia (IgE total)",
-      "category": "OTHER",
-      "date": 1722508800000
-    }
-  ]
+    "results": [
+      { "name": "Cor", "value": "Amarelo claro" },
+      { "name": "Aspecto", "value": "Transparente" },
+      { "name": "pH", "value": "6.0", "referenceRange": "5.0 - 8.0" },
+      { "name": "Glicose", "value": "Negativo" },
+      { "name": "Proteínas", "value": "Negativo" }
+    ],
+    "attachments": [
+      {
+        "id": "att007",
+        "examId": "07b123d4-5e67-4f90-0abc-7d8e9f0a1b07",
+        "fileName": "urina_tipo1_lucas.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/urina_lucas.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1693530000000
+      }
+    ],
+    "notes": "Exame dentro dos parâmetros normais.",
+    "createdAt": 1693526400000,
+    "updatedAt": null
+  },
+  {
+    "id": "18c234e5-6f78-4a01-1bcd-8e9f0a1b2c08",
+    "userId": "u1001",
+    "title": "Teste de alergia (IgE total)",
+    "category": "OTHER",
+    "date": 1722508800000,
+    "laboratory": {
+      "id": "l005",
+      "name": "Laboratório Rede Vida",
+      "address": "Av. Beira Mar, 120 - Meireles, Fortaleza, CE",
+      "phone": "+55 85 3231-4433",
+      "email": "contato@redevida.com.br"
+    },
+    "results": [
+      { "name": "IgE total", "value": "135", "unit": "UI/mL", "referenceRange": "< 100" }
+    ],
+    "attachments": [
+      {
+        "id": "att008",
+        "examId": "18c234e5-6f78-4a01-1bcd-8e9f0a1b2c08",
+        "fileName": "teste_alergia_felipe.pdf",
+        "fileUrl": "https://storage.auraapp.com/exams/alergia_felipe.pdf",
+        "fileType": "pdf",
+        "uploadedAt": 1722512400000
+      }
+    ],
+    "notes": "IgE ligeiramente elevada, indicar investigação de alergias respiratórias.",
+    "createdAt": 1722508800000,
+    "updatedAt": null
+  }
+]
 }
