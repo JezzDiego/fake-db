@@ -108,10 +108,34 @@
     "category": "BLOOD",
     "date": 1688208000000,
     "results": [
-      { "name": "Hemoglobina", "value": "14.2", "unit": "g/dL", "referenceRange": "13.0 - 17.0" },
-      { "name": "Hematócrito", "value": "42", "unit": "%", "referenceRange": "40 - 52" },
-      { "name": "Leucócitos", "value": "7.1", "unit": "mil/mm³", "referenceRange": "4.0 - 10.0" },
-      { "name": "Plaquetas", "value": "240", "unit": "mil/mm³", "referenceRange": "150 - 450" }
+      {
+        "fieldName": "Hemoglobina",
+        "resultValue": "14.2 g/dL",
+        "referenceRange": "13.0 - 17.0 g/dL",
+        "unit": "g/dL",
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Hematócrito",
+        "resultValue": "42 %",
+        "referenceRange": "40 - 52 %",
+        "unit": "%",
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Leucócitos",
+        "resultValue": "7.1 mil/mm³",
+        "referenceRange": "4.0 - 10.0 mil/mm³",
+        "unit": "mil/mm³",
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Plaquetas",
+        "resultValue": "240 mil/mm³",
+        "referenceRange": "150 - 450 mil/mm³",
+        "unit": "mil/mm³",
+        "interpretation": "Normal"
+      }
     ]
   },
   {
@@ -121,7 +145,13 @@
     "category": "BLOOD",
     "date": 1704067200000,
     "results": [
-      { "name": "Glicose", "value": "88", "unit": "mg/dL", "referenceRange": "70 - 99" }
+      {
+        "fieldName": "Glicose",
+        "resultValue": "88 mg/dL",
+        "referenceRange": "70 - 99 mg/dL",
+        "unit": "mg/dL",
+        "interpretation": "Normal"
+      }
     ]
   },
   {
@@ -131,7 +161,13 @@
     "category": "OTHER",
     "date": 1672444800000,
     "results": [
-      { "name": "SARS-CoV-2", "value": "Não detectado", "unit": null, "referenceRange": "Não detectado" }
+      {
+        "fieldName": "SARS-CoV-2",
+        "resultValue": "Não detectado",
+        "referenceRange": "Não detectado",
+        "unit": null,
+        "interpretation": "Negativo"
+      }
     ]
   },
   {
@@ -141,10 +177,34 @@
     "category": "BLOOD",
     "date": 1696118400000,
     "results": [
-      { "name": "Colesterol total", "value": "192", "unit": "mg/dL", "referenceRange": "< 200" },
-      { "name": "HDL", "value": "52", "unit": "mg/dL", "referenceRange": "> 40" },
-      { "name": "LDL", "value": "120", "unit": "mg/dL", "referenceRange": "< 130" },
-      { "name": "Triglicerídeos", "value": "135", "unit": "mg/dL", "referenceRange": "< 150" }
+      {
+        "fieldName": "Colesterol total",
+        "resultValue": "192 mg/dL",
+        "referenceRange": "< 200 mg/dL",
+        "unit": "mg/dL",
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "HDL",
+        "resultValue": "52 mg/dL",
+        "referenceRange": "> 40 mg/dL",
+        "unit": "mg/dL",
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "LDL",
+        "resultValue": "120 mg/dL",
+        "referenceRange": "< 130 mg/dL",
+        "unit": "mg/dL",
+        "interpretation": "Ligeiramente elevado"
+      },
+      {
+        "fieldName": "Triglicerídeos",
+        "resultValue": "135 mg/dL",
+        "referenceRange": "< 150 mg/dL",
+        "unit": "mg/dL",
+        "interpretation": "Normal"
+      }
     ]
   },
   {
@@ -154,7 +214,13 @@
     "category": "IMAGE",
     "date": 1711920000000,
     "results": [
-      { "name": "Observação", "value": "Fígado e rins com dimensões normais, sem alterações." }
+      {
+        "fieldName": "Observação",
+        "resultValue": "Fígado e rins com dimensões normais, sem alterações.",
+        "referenceRange": null,
+        "unit": null,
+        "interpretation": "Sem achados relevantes"
+      }
     ]
   },
   {
@@ -164,8 +230,20 @@
     "category": "CARDIO",
     "date": 1669852800000,
     "results": [
-      { "name": "Ritmo cardíaco", "value": "Sinusal normal" },
-      { "name": "Frequência", "value": "72", "unit": "bpm", "referenceRange": "60 - 100" }
+      {
+        "fieldName": "Ritmo cardíaco",
+        "resultValue": "Sinusal normal",
+        "referenceRange": null,
+        "unit": null,
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Frequência",
+        "resultValue": "72 bpm",
+        "referenceRange": "60 - 100 bpm",
+        "unit": "bpm",
+        "interpretation": "Normal"
+      }
     ]
   },
   {
@@ -175,11 +253,41 @@
     "category": "URINE",
     "date": 1693526400000,
     "results": [
-      { "name": "Cor", "value": "Amarelo claro" },
-      { "name": "Aspecto", "value": "Transparente" },
-      { "name": "pH", "value": "6.0", "referenceRange": "5.0 - 8.0" },
-      { "name": "Glicose", "value": "Negativo" },
-      { "name": "Proteínas", "value": "Negativo" }
+      {
+        "fieldName": "Cor",
+        "resultValue": "Amarelo claro",
+        "referenceRange": null,
+        "unit": null,
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Aspecto",
+        "resultValue": "Transparente",
+        "referenceRange": null,
+        "unit": null,
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "pH",
+        "resultValue": "6.0",
+        "referenceRange": "5.0 - 8.0",
+        "unit": null,
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Glicose",
+        "resultValue": "Negativo",
+        "referenceRange": "Negativo",
+        "unit": null,
+        "interpretation": "Normal"
+      },
+      {
+        "fieldName": "Proteínas",
+        "resultValue": "Negativo",
+        "referenceRange": "Negativo",
+        "unit": null,
+        "interpretation": "Normal"
+      }
     ]
   },
   {
@@ -189,7 +297,13 @@
     "category": "OTHER",
     "date": 1722508800000,
     "results": [
-      { "name": "IgE total", "value": "135", "unit": "UI/mL", "referenceRange": "< 100" }
+      {
+        "fieldName": "IgE total",
+        "resultValue": "135 UI/mL",
+        "referenceRange": "< 100 UI/mL",
+        "unit": "UI/mL",
+        "interpretation": "Elevado — investigar alergias"
+      }
     ]
   }
 ]
