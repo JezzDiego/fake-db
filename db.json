@@ -56,6 +56,51 @@
       "plan": "FREE"
     }
   ],
+  {
+  "labs": [
+    {
+      "id": "l001",
+      "name": "Laboratório Central de Diagnósticos",
+      "address": "Av. Paulista, 1500 - Bela Vista, São Paulo, SP",
+      "phone": "+55 11 3123-4500",
+      "email": "contato@lcd.com.br"
+    },
+    {
+      "id": "l002",
+      "name": "Laboratório São Lucas",
+      "address": "Rua São João, 320 - Centro, Rio de Janeiro, RJ",
+      "phone": "+55 21 3322-7788",
+      "email": "atendimento@saolucaslab.com.br"
+    },
+    {
+      "id": "l003",
+      "name": "Laboratório Viva Saúde",
+      "address": "Av. Brasil, 2100 - Funcionários, Belo Horizonte, MG",
+      "phone": "+55 31 3456-9900",
+      "email": "contato@vivasaude.com.br"
+    },
+    {
+      "id": "l004",
+      "name": "Laboratório Santa Cruz",
+      "address": "Praça da Sé, 45 - Centro, Salvador, BA",
+      "phone": "+55 71 9987-1122",
+      "email": "infosantacruz@lab.com.br"
+    },
+    {
+      "id": "l005",
+      "name": "Laboratório Rede Vida",
+      "address": "Av. Beira Mar, 120 - Meireles, Fortaleza, CE",
+      "phone": "+55 85 3231-4433",
+      "email": "contato@redevida.com.br"
+    },
+    {
+      "id": "l006",
+      "name": "Laboratório Norte Clínica",
+      "address": "Rua das Flores, 780 - Bairro Novo, Porto Alegre, RS",
+      "phone": "+55 51 4000-5566",
+      "email": "contato@norteclinica.com.br"
+    }
+  ]
   "exams": [
     {
       "id": "e1a9f2b0-6f5c-4d2b-a8c1-1f2a8b3c9d01",
