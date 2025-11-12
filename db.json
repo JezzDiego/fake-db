@@ -157,57 +157,5 @@
       "category": "OTHER",
       "date": 1722508800000
     }
-  ],
-  "articles": [
-    {
-      "id": 1,
-      "titulo": "Alongamentos diários podem reduzir dores nas costas, diz estudo",
-      "descricao": "Pesquisa mostra que poucos minutos de alongamento diário reduzem dores lombares.",
-      "fonte": "SaudeHoje",
-      "url": "https://l1nk.dev/p2CPQ",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eKrvsDIWbYy8VI69Sqx4WruWNqa5qrIl_6tiP4TYt25LbpBt4q0_9a1REUoDgNtrsJg&usqp=CAU",
-      "data_publicacao": "2025-11-05T07:00:00Z",
-      "conteudo": "Alongar-se por cinco minutos ao acordar ajuda a aliviar tensões musculares e melhora a postura, prevenindo dores crônicas e aumentando a mobilidade."
-    },
-    {
-      "id": 2,
-      "titulo": "Alimentação equilibrada é aliada da imunidade no verão",
-      "descricao": "Nutricionistas reforçam a importância de frutas e legumes frescos.",
-      "fonte": "BemEstar Brasil",
-      "url": "https://l1nk.dev/p2CPQ",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eKrvsDIWbYy8VI69Sqx4WruWNqa5qrIl_6tiP4TYt25LbpBt4q0_9a1REUoDgNtrsJg&usqp=CAU",
-      "data_publicacao": "2025-11-06T09:30:00Z",
-      "conteudo": "Com as altas temperaturas, alimentos leves e ricos em água, como melancia e pepino, ajudam na hidratação e fortalecem o sistema imunológico."
-    },
-    {
-      "id": 3,
-      "titulo": "Sono adequado reduz risco de doenças cardíacas",
-      "descricao": "Dormir bem ajuda a regular a pressão arterial e o metabolismo.",
-      "fonte": "VidaSaudável",
-      "url": "https://l1nk.dev/p2CPQ",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eKrvsDIWbYy8VI69Sqx4WruWNqa5qrIl_6tiP4TYt25LbpBt4q0_9a1REUoDgNtrsJg&usqp=CAU",
-      "data_publicacao": "2025-11-04T22:00:00Z",
-      "conteudo": "Dormir entre sete e oito horas por noite reduz o estresse e o risco de infarto, mantendo o equilíbrio hormonal e a saúde cardiovascular."
-    },
-    {
-      "id": 4,
-      "titulo": "Caminhar 30 minutos por dia pode prolongar a vida",
-      "descricao": "Atividade física simples ajuda no controle do peso e da pressão.",
-      "fonte": "CorpoAtivo",
-      "url": "https://l1nk.dev/p2CPQ",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eKrvsDIWbYy8VI69Sqx4WruWNqa5qrIl_6tiP4TYt25LbpBt4q0_9a1REUoDgNtrsJg&usqp=CAU",
-      "data_publicacao": "2025-11-03T15:00:00Z",
-      "conteudo": "Pequenas caminhadas diárias melhoram a circulação, controlam o colesterol e reduzem o risco de diabetes tipo 2, segundo a OMS."
-    },
-    {
-      "id": 5,
-      "titulo": "Consumo moderado de café traz benefícios cognitivos",
-      "descricao": "A bebida estimula o foco e pode prevenir doenças neurodegenerativas.",
-      "fonte": "SaudeNews",
-      "url": "https://l1nk.dev/p2CPQ",
-      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eKrvsDIWbYy8VI69Sqx4WruWNqa5qrIl_6tiP4TYt25LbpBt4q0_9a1REUoDgNtrsJg&usqp=CAU",
-      "data_publicacao": "2025-11-02T10:20:00Z",
-      "conteudo": "Até três xícaras diárias de café melhoram o desempenho mental e reduzem o risco de Alzheimer. O excesso pode causar insônia."
-    }
   ]
 }
