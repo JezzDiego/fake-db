@@ -84,20 +84,6 @@
       "address": "Praça da Sé, 45 - Centro, Salvador, BA",
       "phone": "+55 71 9987-1122",
       "email": "infosantacruz@lab.com.br"
-    },
-    {
-      "id": "l005",
-      "name": "Laboratório Rede Vida",
-      "address": "Av. Beira Mar, 120 - Meireles, Fortaleza, CE",
-      "phone": "+55 85 3231-4433",
-      "email": "contato@redevida.com.br"
-    },
-    {
-      "id": "l006",
-      "name": "Laboratório Norte Clínica",
-      "address": "Rua das Flores, 780 - Bairro Novo, Porto Alegre, RS",
-      "phone": "+55 51 4000-5566",
-      "email": "contato@norteclinica.com.br"
     }
   ],
  "exams": [
