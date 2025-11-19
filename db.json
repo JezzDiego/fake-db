@@ -298,28 +298,28 @@
       "id": "1",
       "name": "Paracetamol",
       "dosage": "500 mg",
-      "interval_hours": 6,
+      "interval_hours": "6",
       "description": "Analgésico e antipirético utilizado para aliviar dores leves a moderadas e reduzir a febre."
     },
     {
       "id": "2",
       "name": "Ibuprofeno",
       "dosage": "400 mg",
-      "interval_hours": 8,
+      "interval_hours": "8",
       "description": "Anti-inflamatório não esteroide usado para tratar dor, febre e inflamação."
     },
     {
       "id": "3",
       "name": "Amoxicilina",
       "dosage": "500 mg",
-      "interval_hours": 8,
+      "interval_hours": "8",
       "description": "Antibiótico da classe das penicilinas usado para tratar infecções bacterianas."
     },
     {
       "id": "4",
       "name": "Dipirona",
       "dosage": "500 mg",
-      "interval_hours": 6,
+      "interval_hours": "6",
       "description": "Analgésico e antipirético indicado para alívio de dores e redução de febre."
     }
   ]
